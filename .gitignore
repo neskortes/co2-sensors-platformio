@@ -1,0 +1,13 @@
+# PlatformIO build + deps
+**/.pio/
+**/libdeps/
+**/.pioenvs/
+**/piolibdeps/
+
+# VS Code
+**/.vscode/
+*.code-workspace
+
+# secrets (WiFi/API keys)
+**/secrets.h
+**/src/secrets.h
